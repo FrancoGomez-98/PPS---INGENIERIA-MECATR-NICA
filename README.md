@@ -3,8 +3,6 @@
 
 ## Puesta a Punto y Mejora del Brazo Robótico SCORBOT EX IX
 
-![Logo Institucional](https://github.com/JonatanBogadoUNLZ/PPS-Jonatan-Bogado/blob/9952aac097aca83a1aadfc26679fc7ec57369d82/LOGO%20AZUL%20HORIZONTAL%20-%20fondo%20transparente.png)
-
 ---
 
 ## Introducción / Objetivo
